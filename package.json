@@ -1,0 +1,27 @@
+{
+  "name": "ok",
+  "version": "1.0.0",
+  "description": "Proyecto asignado al equipo 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EquipoTrabajo/ProyectoOng-s.git"
+  },
+  "keywords": [
+    "ong",
+    "donaciones",
+    "equipo"
+  ],
+  "author": "Escaparate Media",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EquipoTrabajo/ProyectoOng-s/issues"
+  },
+  "homepage": "https://github.com/EquipoTrabajo/ProyectoOng-s#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
